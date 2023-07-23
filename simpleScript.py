@@ -1,5 +1,4 @@
 import mysql.connector as connector
-
 class DB:
     def __init__(self):
         print("\033c", end="")
