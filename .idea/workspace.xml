@@ -93,7 +93,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690129141921</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add item search based on url via localhost:port/show/:item">
+      <created>1691161964337</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1691161964337</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -114,16 +121,5 @@
     <MESSAGE value="add bottle" />
     <MESSAGE value="add item search based on url via localhost:port/show/:item" />
     <option name="LAST_COMMIT_MESSAGE" value="add item search based on url via localhost:port/show/:item" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/api.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
